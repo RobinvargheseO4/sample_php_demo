@@ -9,7 +9,7 @@
 
     <?php
         // PHP code goes here
-        echo "Hello, World!";
+        echo "RisingPhoenix";
     ?>
 
 </body>
